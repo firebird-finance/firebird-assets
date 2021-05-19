@@ -1,8 +1,8 @@
 {
     "name": "Value USD",
-    "source_code": "https://github.com/valuedefi",
     "website": "https://valuedefi.io/",
-    "short_description": "Value DeFi: Bringing True Value to DeFi.",
+    "source_code": "https://github.com/valuedefi",
+    "description": "Value DeFi: Bringing True Value to DeFi.",
     "socials": [
         {
             "name": "Twitter",
@@ -25,5 +25,10 @@
             "handle": "valuedefi"
         }
     ],
-    "explorer": "https://etherscan.io/token/0x3479B0ACF875405D7853f44142FE06470a40f6CC"
+    "explorer": "https://etherscan.io/token/0x3479B0ACF875405D7853f44142FE06470a40f6CC",
+    "type": "ERC20",
+    "symbol": "vUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3479B0ACF875405D7853f44142FE06470a40f6CC"
 }
