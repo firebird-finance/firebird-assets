@@ -94,5 +94,17 @@
         "name": "Stake Systems",
         "description": "Building infrastructure to support awesome projects running in the blockchain landscape",
         "website": "https://stake.systems"
+    },
+    {
+        "id": "kavavaloper1uvz0vus7ktxt47cermscwe3k9gs7h9ag05sh6g",
+        "name": "Genesis Lab",
+        "description": "Genesis Lab is a validation nodes operator in PoS networks and blockchain-focused software development company",
+        "website": "https://genesislab.net"
+    },
+    {
+        "id": "kavavaloper1ppj7c8tqt2e3rzqtmztsmd6ea6u3nz6qggcp5e",
+        "name": "SG-1",
+        "description": "We are the blockchain SG-1 team. Our mission is to validate Cosmos SDK blockchains, develop Software around Cosmos and Tendermint. Our mission is to find new planets and ecosystems.",
+        "website": "https://sg-1.online"
     }
 ]

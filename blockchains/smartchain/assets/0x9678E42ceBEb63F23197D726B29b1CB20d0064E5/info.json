@@ -2,7 +2,8 @@
     "name": "IoTeX Network",
     "website": "https://iotex.io",
     "source_code": "https://github.com/iotexproject/iotex-core",
-    "short_description": "IOTX will be a Decentralized Network for Internet of Things. Powered by a Privacy-Centric Blockchain.",
+    "description": "IOTX will be a Decentralized Network for Internet of Things. Powered by a Privacy-Centric Blockchain.",
+    "research": "https://iotex.io/research",
     "socials": [
         {
             "name": "Twitter",
@@ -26,7 +27,6 @@
         }
     ],
     "explorer": "https://bscscan.com/token/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
-    "research": "https://iotex.io/research",
     "type": "BEP20",
     "symbol": "IOTX",
     "decimals": 18,
