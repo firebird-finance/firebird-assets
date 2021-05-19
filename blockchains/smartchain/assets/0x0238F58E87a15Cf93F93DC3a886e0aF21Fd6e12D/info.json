@@ -1,6 +1,11 @@
 {
-"name": "Exhibiton.gallery",
-"website": "https://exhibition.gallery/",
-"short_description": "Exhibiton.gallery aims to foster those digital artistic creations for all artists, while connecting artists with art lovers, collectors, and investors via its NFT marketplace.",
-"explorer": "https://bscscan.com/token/0x0238f58e87a15cf93f93dc3a886e0af21fd6e12d"
+  "name": "Exhibiton.gallery",
+  "website": "https://exhibition.gallery/",
+  "description": "Exhibiton.gallery aims to foster those digital artistic creations for all artists, while connecting artists with art lovers, collectors, and investors via its NFT marketplace.",
+  "explorer": "https://bscscan.com/token/0x0238f58e87a15cf93f93dc3a886e0af21fd6e12d",
+  "type": "BEP20",
+  "symbol": "ARTO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0238F58E87a15Cf93F93DC3a886e0aF21Fd6e12D"
 }
