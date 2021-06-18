@@ -1,0 +1,11 @@
+{
+    "name": "Vote-escrowed Firebird.Finance HOPE PEARL",
+    "type": "BEP20",
+    "symbol": "mHOPE-P",
+    "decimals": 18,
+    "website": "https://app.firebird.finance/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xDaF4dD071902E739819cd36988e85C8770fa527F",
+    "status": "active",
+    "id": "0xDaF4dD071902E739819cd36988e85C8770fa527F"
+}
