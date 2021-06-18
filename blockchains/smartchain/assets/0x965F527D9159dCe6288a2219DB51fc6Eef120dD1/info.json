@@ -1,0 +1,11 @@
+{
+    "name": "Biswap",
+    "type": "BEP20",
+    "symbol": "BSW",
+    "decimals": 18,
+    "website": "https://biswap.org/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "status": "active",
+    "id": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+}
