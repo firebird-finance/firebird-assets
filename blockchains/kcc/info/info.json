@@ -1,0 +1,27 @@
+{
+    "name": "KCC",
+    "website": "https://www.kcc.io/",
+    "source_code": "https://github.com/kcc-community",
+    "white_paper": "",
+    "short_description": "Built by the fans of KCS and KuCoin, KuCoin Community Chain (KCC) is an Ethereum-based decentralized public chain with high performance",
+    "description": "Built by the fans of KCS and KuCoin, KuCoin Community Chain (KCC) is an Ethereum-based decentralized public chain with high performance",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/KCCOfficialTW",
+            "handle": "KCCOfficialTW"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/KCCOfficialEnglishCommunity",
+            "handle": "KCCOfficialEnglishCommunity"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.com/invite/H5ucJydSyd",
+            "handle": "H5ucJydSyd"
+        }
+    ],
+    "explorer": "https://explorer.kcc.io/",
+    "research": "https://docs.kcc.io/"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "KoffeeSwap Token",
+    "type": "KRC20",
+    "symbol": "KOFFEE",
+    "decimals": 18,
+    "website": "https://koffeeswap.exchange",
+    "description": "",
+    "explorer": "https://explorer.kcc.io/token/0xc0ffee0000921eb8dd7d506d4de8d5b79b856157",
+    "status": "active",
+    "id": "0xc0ffeE0000921eB8DD7d506d4dE8D5B79b856157"
+}

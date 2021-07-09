@@ -1,0 +1,11 @@
+{
+    "name": "KuDOS",
+    "type": "KRC20",
+    "symbol": "KUDOS",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.kcc.io/token/0x1b465775469c71b898bb51b53b2d4464b7cd3448",
+    "status": "active",
+    "id": "0x1B465775469C71b898Bb51B53b2D4464b7Cd3448"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped KCS",
+    "type": "KRC20",
+    "symbol": "WKCS",
+    "decimals": 18,
+    "website": "https://kcc.io/",
+    "description": "",
+    "explorer": "https://explorer.kcc.io/token/0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+    "status": "active",
+    "id": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521"
+}
