@@ -1,0 +1,12 @@
+
+{
+    "name": "(PoS) Tether USD",
+    "website": "https://tether.to",
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+    "explorer": "https://polygonscan.com//token/0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+}
