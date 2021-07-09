@@ -1,0 +1,11 @@
+{
+    "name": "JetSwap Polygon Token",
+    "type": "ERC20",
+    "symbol": "pWINGS",
+    "decimals": 18,
+    "website": "https://jetswap.finance/",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25",
+    "status": "active",
+    "id": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25"
+}
