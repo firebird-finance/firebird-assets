@@ -1,0 +1,11 @@
+{
+    "name": "Iron Finance ICE Token",
+    "type": "ERC20",
+    "symbol": "ICE",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+    "status": "active",
+    "id": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef"
+}
