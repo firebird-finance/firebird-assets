@@ -1,0 +1,11 @@
+{
+    "name": "miMATIC",
+    "type": "ERC20",
+    "symbol": "miMATIC",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+    "status": "active",
+    "id": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"
+}
