@@ -1,0 +1,11 @@
+{
+    "name": "KuSwap",
+    "type": "KRC20",
+    "symbol": "KUS",
+    "decimals": 18,
+    "website": "https://kuswap.finance/",
+    "description": "",
+    "explorer": "https://explorer.kcc.io/en/token/0x4a81704d8c16d9fb0d7f61b747d0b5a272badf14",
+    "status": "active",
+    "id": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14"
+}
