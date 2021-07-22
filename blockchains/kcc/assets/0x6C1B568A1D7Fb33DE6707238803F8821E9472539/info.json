@@ -1,0 +1,11 @@
+{
+    "name": "Bone Token",
+    "type": "KRC20",
+    "symbol": "BONE",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x6C1B568A1D7Fb33DE6707238803F8821E9472539"
+}
