@@ -1,0 +1,11 @@
+{
+    "name": "Shibance Token KCC",
+    "type": "KRC20",
+    "symbol": "KWOOF",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x192F72eFD1009D90B0e6F82Ff27a0a2389F803e5"
+}

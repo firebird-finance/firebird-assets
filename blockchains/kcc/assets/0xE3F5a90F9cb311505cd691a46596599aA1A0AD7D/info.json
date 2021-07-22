@@ -1,0 +1,11 @@
+{
+    "name": "Binance-Peg BUSD Token",
+    "type": "KRC20",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D"
+}

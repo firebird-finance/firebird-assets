@@ -1,0 +1,11 @@
+{
+    "name": "GemSwap Token",
+    "type": "KRC20",
+    "symbol": "GEM",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x8c5CE6129372bd55E03D74831BdA9DD4ff40bd62"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Kudex Token",
+    "type": "KRC20",
+    "symbol": "KUD",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.kcc.io/en/token/0xbd451b952de19f2c7ba2c8c516b0740484e953b2",
+    "status": "active",
+    "id": "0xBd451b952dE19F2C7bA2c8c516b0740484E953B2"
+}
