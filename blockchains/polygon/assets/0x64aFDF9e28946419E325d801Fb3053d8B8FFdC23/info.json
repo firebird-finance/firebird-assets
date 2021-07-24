@@ -1,0 +1,11 @@
+{
+    "name": "MeebMaster.com Token",
+    "type": "ERC20",
+    "symbol": "MEEB",
+    "decimals": 18,
+    "website": "https://meebmaster.com/",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x64aFDF9e28946419E325d801Fb3053d8B8FFdC23",
+    "status": "active",
+    "id": "0x64aFDF9e28946419E325d801Fb3053d8B8FFdC23"
+}
