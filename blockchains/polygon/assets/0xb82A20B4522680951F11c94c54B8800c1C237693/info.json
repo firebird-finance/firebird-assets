@@ -1,0 +1,11 @@
+{
+    "name": "HONOR",
+    "type": "ERC20",
+    "symbol": "HONOR",
+    "decimals": 18,
+    "website": "https://polygon.farmhero.io/",
+    "description": "",
+    "explorer": "https://polygonscan.com/address/0xb82A20B4522680951F11c94c54B8800c1C237693",
+    "status": "active",
+    "id": "0xb82A20B4522680951F11c94c54B8800c1C237693"
+}
