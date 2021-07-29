@@ -1,0 +1,11 @@
+{
+    "name": "xDollar Stablecoin",
+    "type": "ERC20",
+    "symbol": "xUSD",
+    "decimals": 18,
+    "website": "https://xdollar.fi/",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975",
+    "status": "active",
+    "id": "0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975"
+}
