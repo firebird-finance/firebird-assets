@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped UST Token",
+    "type": "ERC20",
+    "symbol": "UST",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x692597b009d13C4049a947CAB2239b7d6517875F",
+    "status": "active",
+    "id": "0x692597b009d13C4049a947CAB2239b7d6517875F"
+}
