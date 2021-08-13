@@ -1,0 +1,11 @@
+{
+    "name": "Paw v2",
+    "type": "ERC20",
+    "symbol": "PAW",
+    "decimals": 18,
+    "website": "https://polycat.finance/",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0xBC5b59EA1b6f8Da8258615EE38D40e999EC5D74F",
+    "status": "active",
+    "id": "0xBC5b59EA1b6f8Da8258615EE38D40e999EC5D74F"
+}
