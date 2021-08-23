@@ -1,0 +1,11 @@
+{
+    "name": "Spice (PoS)",
+    "type": "ERC20",
+    "symbol": "SFI",
+    "decimals": 8,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x35b937583F04A24963eb685F728a542240f28Dd8",
+    "status": "active",
+    "id": "0x35b937583F04A24963eb685F728a542240f28Dd8"
+}
