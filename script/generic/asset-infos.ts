@@ -26,7 +26,7 @@ function isAssetInfoHasAllKeys(info: unknown, path: string): [boolean, string] {
 // return error, warning, and fixed into if applicable
 function isAssetInfoValid(info: unknown, path: string, address: string, chain: string, checkOnly: boolean): [string, string, unknown?] {
     let fixedInfo: unknown|null = null;
-    const isKeys1CorrectType = 
+    const isKeys1CorrectType =
         typeof info['name'] === "string" && info['name'] !== "" &&
         typeof info['type'] === "string" && info['type'] !== "" &&
         typeof info['symbol'] === "string" && info['symbol'] !== "" &&
@@ -78,7 +78,7 @@ function isAssetInfoValid(info: unknown, path: string, address: string, chain: s
         }
     }
 
-    const isKeys2CorrectType = 
+    const isKeys2CorrectType =
         typeof info['description'] === "string" && info['description'] !== "" &&
         // website should be set (exception description='-' marks empty infos)
         typeof info['website'] === "string" && (info['description'] === "-" || info['website'] !== "") &&
@@ -114,6 +114,7 @@ export function chainFromAssetType(type: string): string {
         case "NRC20": return "nuls";
         case "VET": return "vechain";
         case "ONTOLOGY": return "ontology";
+        case "KRC20": return "kucoin";
         default: return "";
     }
 }
@@ -264,12 +265,12 @@ function isAssetInfoOK(chain: string, address: string, errors: string[], warning
     if (fixedInfo && !checkOnly) {
         writeJsonFile(assetInfoPath, fixedInfo);
         console.log(`Done fixes to info.json, ${assetInfoPath}`);
-    }    
+    }
 }
 
 export class AssetInfos implements ActionInterface {
     getName(): string { return "Asset Infos"; }
-    
+
     getSanityChecks(): CheckStepInterface[] {
         const steps: CheckStepInterface[] = [];
         allChains.forEach(chain => {
@@ -287,7 +288,7 @@ export class AssetInfos implements ActionInterface {
                                 isAssetInfoOK(chain, address, errors, warnings, true);
                             });
                             return [errors, warnings];
-                        }    
+                        }
                     }
                 );
             }

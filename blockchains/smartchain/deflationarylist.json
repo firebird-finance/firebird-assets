@@ -1,0 +1,70 @@
+{
+  "tokens": [
+    {
+      "address": "0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E",
+      "name": "Crow Token",
+      "symbol": "CROW",
+      "logoURI": ""
+    },
+    {
+      "address": "0xcdAd3683335a4a96d2c437Dd4513b061E4AEc4ff",
+      "name": "Pokeball",
+      "symbol": "POKE"
+    },
+    {
+      "address": "0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
+      "name": "Absorber",
+      "symbol": "ABS"
+    },
+    {
+      "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+      "name": "Reference System for DeFi",
+      "symbol": "RSD"
+    },
+    {
+      "address": "0x609D183Fb91a0fce59550b62ab7d2c931b0Bb1BE",
+      "name": "PolkaMonster",
+      "symbol": "PkMon"
+    },
+    {
+      "address": "0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC",
+      "name": "CryptoZoon",
+      "symbol": "ZOON"
+    },
+    {
+      "address": "0xeE351682cDA9551F8EED6349F6237caB75F8c495",
+      "name": "Elements",
+      "symbol": "ELM"
+    },
+    {
+      "address": "0x6d9fB3332f62Fc044d5075feEeA597A92F1ce0AD",
+      "name": "BABY DOGE BILLIONAIRE",
+      "symbol": "BABYDB"
+    },
+    {
+      "address": "0xaF6Bd11A6F8f9c44b9D18f5FA116E403db599f8E",
+      "name": "AlinX",
+      "symbol": "ALIX"
+    },
+    {
+      "address": "0xc8E8ecB2A5B5d1eCFf007BF74d15A86434aA0c5C",
+      "name": "DragonSlayer",
+      "symbol": "DRS"
+    },
+    {
+      "address": "0xb26D2d67C7652f361b73552310dA5753041b3867",
+      "name": "Binapet",
+      "symbol": "BPET"
+    },
+    {
+      "address": "0x5B5214c6110a2B538C2541998b243ec1CC517E24",
+      "name": "aGold",
+      "symbol": "AoE"
+    },
+    {
+      "address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
+      "name": "NFTB",
+      "symbol": "NFTB"
+    }
+  ]
+}

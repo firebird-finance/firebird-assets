@@ -1,0 +1,25 @@
+{
+  "tokens": [
+    {
+      "address": "0x66C59Dded4EF01a3412a8B019B6e41D4a8C49A35",
+      "name": "SafeDollar.Fi Dollar 2.0",
+      "symbol": "SDO",
+      "logoURI": ""
+    },
+    {
+      "address": "0xAB72EE159Ff70b64beEcBbB0FbBE58b372391C54",
+      "name": "SafeDollar.Fi Share 2.0",
+      "symbol": "SDS"
+    },
+    {
+      "address": "0x4B1df511d59F5c73a420217cE58a77b462151c9E",
+      "name": "PolyDEX.Fi 2.0",
+      "symbol": "PLX"
+    },
+    {
+      "address": "0x4c4bf319237d98a30a929a96112effa8da3510eb",
+      "name": "WaultSwap Polygon",
+      "symbol": "WEXpoly"
+    }
+  ]
+}
