@@ -4,22 +4,26 @@
       "address": "0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E",
       "name": "Crow Token",
       "symbol": "CROW",
-      "logoURI": ""
+      "logoURI": "",
+      "factor": 0.03
     },
     {
       "address": "0xcdAd3683335a4a96d2c437Dd4513b061E4AEc4ff",
       "name": "Pokeball",
-      "symbol": "POKE"
+      "symbol": "POKE",
+      "factor": 0.05
     },
     {
       "address": "0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
       "name": "Absorber",
-      "symbol": "ABS"
+      "symbol": "ABS",
+      "factor": 0.05
     },
     {
       "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
       "name": "Reference System for DeFi",
-      "symbol": "RSD"
+      "symbol": "RSD",
+      "factor": 0.1
     },
     {
       "address": "0x609D183Fb91a0fce59550b62ab7d2c931b0Bb1BE",

@@ -14,7 +14,8 @@
     {
       "address": "0x4B1df511d59F5c73a420217cE58a77b462151c9E",
       "name": "PolyDEX.Fi 2.0",
-      "symbol": "PLX"
+      "symbol": "PLX",
+      "factor": 0.001
     },
     {
       "address": "0x4c4bf319237d98a30a929a96112effa8da3510eb",
