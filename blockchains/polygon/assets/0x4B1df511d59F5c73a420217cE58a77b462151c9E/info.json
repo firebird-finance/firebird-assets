@@ -1,0 +1,11 @@
+{
+    "name": "PolyDEX.FI 2.0",
+    "type": "ERC20",
+    "symbol": "PLX",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x4B1df511d59F5c73a420217cE58a77b462151c9E",
+    "status": "active",
+    "id": "0x4B1df511d59F5c73a420217cE58a77b462151c9E"
+}
