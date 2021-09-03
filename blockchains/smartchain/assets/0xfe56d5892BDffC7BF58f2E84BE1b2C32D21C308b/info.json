@@ -1,0 +1,11 @@
+{
+    "name": "Kyber Network Crystal",
+    "type": "BEP20",
+    "symbol": "KNC",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
+    "status": "active",
+    "id": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b"
+}
