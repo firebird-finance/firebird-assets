@@ -1,0 +1,11 @@
+{
+    "name": "Ivory Token",
+    "type": "ERC20",
+    "symbol": "IVORY",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x88a3aCAc5C48F93121d4d7771A068A1FCDE078BC",
+    "status": "active",
+    "id": "0x88a3aCAc5C48F93121d4d7771A068A1FCDE078BC"
+}
