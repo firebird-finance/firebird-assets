@@ -1,0 +1,11 @@
+{
+    "name": "Tower Stablecoin",
+    "type": "ERC20",
+    "symbol": "TOWER",
+    "decimals": 18,
+    "website": "https://towerfinance.io/",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x8201532917e55ba29674ef4e88ffe0b775f1bae8",
+    "status": "active",
+    "id": "0x8201532917e55bA29674Ef4E88FFe0b775f1BaE8"
+}
