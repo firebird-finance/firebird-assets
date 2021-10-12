@@ -1,0 +1,11 @@
+{
+    "name": "FINN Token",
+    "type": "ERC20",
+    "symbol": "FINN",
+    "decimals": 18,
+    "website": "https://www.huckleberry.finance/",
+    "description": "",
+    "explorer": "https://blockscout.moonriver.moonbeam.network/tokens/0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756",
+    "status": "active",
+    "id": "0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756"
+}
