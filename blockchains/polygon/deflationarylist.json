@@ -1,6 +1,11 @@
 {
   "tokens": [
     {
+      "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+      "name": "BLOK",
+      "symbol": "BLOK"
+    },
+    {
       "address": "0x66C59Dded4EF01a3412a8B019B6e41D4a8C49A35",
       "name": "SafeDollar.Fi Dollar 2.0",
       "symbol": "SDO",
