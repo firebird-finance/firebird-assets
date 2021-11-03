@@ -69,6 +69,16 @@
       "address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
       "name": "NFTB",
       "symbol": "NFTB"
+    },
+    {
+      "address": "0xC0C6e4C6E70c6231b20979Bda581a66f062A7967",
+      "name": "AtariToken",
+      "symbol": "bATRI"
+    },
+    {
+      "address": "0x78A499a998Bdd5a84CF8b5aBe49100D82DE12f1C",
+      "name": "JOJO",
+      "symbol": "JOJO"
     }
   ]
 }
