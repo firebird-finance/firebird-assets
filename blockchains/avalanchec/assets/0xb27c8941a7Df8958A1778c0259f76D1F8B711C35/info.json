@@ -1,0 +1,11 @@
+{
+    "name": "Kalao",
+    "symbol": "KLO",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://cchain.explorer.avax.network/tokens/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+    "status": "active",
+    "id": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35"
+}

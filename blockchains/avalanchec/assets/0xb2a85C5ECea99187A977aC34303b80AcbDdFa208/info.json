@@ -1,0 +1,11 @@
+{
+    "name": "ROCO",
+    "symbol": "ROCO",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://cchain.explorer.avax.network/tokens/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+    "status": "active",
+    "id": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Treat",
+    "type": "ERC20",
+    "symbol": "TREAT",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06",
+    "status": "active",
+    "id": "0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06"
+}

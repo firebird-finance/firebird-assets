@@ -1,0 +1,11 @@
+{
+    "name": "Decentral Games ICE",
+    "type": "ERC20",
+    "symbol": "ICE",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+    "status": "active",
+    "id": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c"
+}

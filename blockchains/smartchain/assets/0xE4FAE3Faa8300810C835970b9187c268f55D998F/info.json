@@ -1,0 +1,11 @@
+{
+    "name": "CateCoin",
+    "type": "BEP20",
+    "symbol": "CATE",
+    "decimals": 9,
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xE4FAE3Faa8300810C835970b9187c268f55D998F",
+    "status": "active",
+    "id": "0xE4FAE3Faa8300810C835970b9187c268f55D998F"
+}

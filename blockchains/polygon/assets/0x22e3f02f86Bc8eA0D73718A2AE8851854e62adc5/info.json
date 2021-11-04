@@ -1,0 +1,11 @@
+{
+    "name": "FireStarter",
+    "type": "ERC20",
+    "symbol": "FLAME",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
+    "status": "active",
+    "id": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5"
+}
