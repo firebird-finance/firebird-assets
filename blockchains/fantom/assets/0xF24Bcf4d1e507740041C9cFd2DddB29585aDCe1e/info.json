@@ -1,0 +1,11 @@
+{
+    "name": "BeethovenxToken",
+    "symbol": "BEETS",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e",
+    "status": "active",
+    "id": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208"
+}
