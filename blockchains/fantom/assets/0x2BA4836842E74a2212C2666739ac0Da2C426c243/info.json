@@ -1,0 +1,11 @@
+{
+    "name": "MummySwap",
+    "symbol": "MUMMY",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x2BA4836842E74a2212C2666739ac0Da2C426c243",
+    "status": "active",
+    "id": "0x2BA4836842E74a2212C2666739ac0Da2C426c243"
+}
