@@ -1,0 +1,11 @@
+{
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://blockscout.moonriver.moonbeam.network/tokens/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/token-transfers",
+    "status": "active",
+    "id": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2"
+}
