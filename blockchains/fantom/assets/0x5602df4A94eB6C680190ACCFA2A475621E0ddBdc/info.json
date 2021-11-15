@@ -1,0 +1,11 @@
+{
+    "name": "Spartacus",
+    "symbol": "SPA",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc",
+    "status": "active",
+    "id": "0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc"
+}
