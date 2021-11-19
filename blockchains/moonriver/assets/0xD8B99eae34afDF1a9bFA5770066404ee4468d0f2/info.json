@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC.e",
+    "type": "ERC20",
+    "decimals": 6,
+    "website": "",
+    "description": "",
+    "explorer": "https://moonriver.moonscan.io/token/0xD8B99eae34afDF1a9bFA5770066404ee4468d0f2",
+    "status": "active",
+    "id": "0xD8B99eae34afDF1a9bFA5770066404ee4468d0f2"
+}
