@@ -1,0 +1,29 @@
+{
+    "name": "Cronos",
+    "website": "https://cronos.crypto.org/",
+    "description": "Crypto.com is a all-in-one cryptocurrency platform for consumers offering services such as exchange, wallet, brokerage, debit cards, borrow/lend, payments, and DeFi.",
+    "explorer": "https://cronos.crypto.org/explorer/",
+    "research": "",
+    "symbol": "CRO",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/pahqHz26q4"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cronos_chain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Cryptoorg_Chain_Announcements"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/crypto-org-chain/cronos"
+        }
+    ]
+}
