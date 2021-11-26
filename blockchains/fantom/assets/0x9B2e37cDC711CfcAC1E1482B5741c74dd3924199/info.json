@@ -1,0 +1,11 @@
+{
+    "name": "Bloom",
+    "symbol": "BLOOM",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x9B2e37cDC711CfcAC1E1482B5741c74dd3924199",
+    "status": "active",
+    "id": "0x9B2e37cDC711CfcAC1E1482B5741c74dd3924199"
+}
