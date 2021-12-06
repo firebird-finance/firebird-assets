@@ -1,0 +1,11 @@
+{
+    "name": "DODO bird",
+    "symbol": "DODO",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x6B208E08dcF6BD51F50C5Da09d15B2D8E5C46Cf2",
+    "status": "active",
+    "id": "0x6B208E08dcF6BD51F50C5Da09d15B2D8E5C46Cf2"
+}
