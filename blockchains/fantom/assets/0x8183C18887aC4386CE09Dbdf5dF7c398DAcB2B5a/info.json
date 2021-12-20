@@ -1,0 +1,11 @@
+{
+    "name": "Secure",
+    "symbol": "SCR",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0x8183C18887aC4386CE09Dbdf5dF7c398DAcB2B5a",
+    "status": "active",
+    "id": "0x8183C18887aC4386CE09Dbdf5dF7c398DAcB2B5a"
+}
