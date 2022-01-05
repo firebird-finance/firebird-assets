@@ -1,7 +1,7 @@
 {
     "name": "Hundred Finance",
-    "type": "ERC20",
     "symbol": "HND",
+    "type": "ERC20",
     "decimals": 18,
     "website": "https://hundred.finance/",
     "description": "Hundred Finance is a decentralized application (dApp) that enables the lending and borrowing of cryptocurrencies. A multi-chain protocol, it integrates with Chainlink oracles to ensure market health and stability, while specializing in serving long-tail assets.",
