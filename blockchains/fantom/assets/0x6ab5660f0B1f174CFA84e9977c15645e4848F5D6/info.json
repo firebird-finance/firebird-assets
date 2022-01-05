@@ -1,0 +1,11 @@
+{
+    "name": "GSCARAB",
+    "symbol": "GSCARAB",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://scarab.finance/",
+    "description": "",
+    "explorer": "https://ftmscan.com/token/0x6ab5660f0b1f174cfa84e9977c15645e4848f5d6",
+    "status": "active",
+    "id": "0x6ab5660f0b1f174cfa84e9977c15645e4848f5d6"
+}
