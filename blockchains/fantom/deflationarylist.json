@@ -4,6 +4,11 @@
       "address": "0x471762A7017A5B1A3e931F1A97aa03Ef1E7F4A73",
       "name": "BABYBOO",
       "symbol": "BABYBOO"
+    },
+    {
+      "address": "0xFFAbb85ADb5c25D57343547a8b32B62f03814B12",
+      "name": "INK",
+      "symbol": "INK"
     }
   ]
 }
