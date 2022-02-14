@@ -1,0 +1,11 @@
+{
+    "name": "Cube Token",
+    "symbol": "CUBE",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x0f4BaDF9e35b49ba7b01e69A0a6336C3888E39D7",
+    "status": "active",
+    "id": "0x0f4BaDF9e35b49ba7b01e69A0a6336C3888E39D7"
+}

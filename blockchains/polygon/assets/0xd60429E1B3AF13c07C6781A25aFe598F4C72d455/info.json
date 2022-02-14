@@ -1,0 +1,11 @@
+{
+    "name": "Tower USD",
+    "symbol": "TWR",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0xd60429E1B3AF13c07C6781A25aFe598F4C72d455",
+    "status": "active",
+    "id": "0xd60429E1B3AF13c07C6781A25aFe598F4C72d455"
+}
