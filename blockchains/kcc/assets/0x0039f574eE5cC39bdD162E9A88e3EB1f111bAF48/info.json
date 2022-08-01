@@ -1,11 +1,21 @@
 {
     "name": "KCC-Peg Tether USD",
-    "website": "https://tether.to",
-    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
-    "explorer": "https://explorer.kcc.io/en/token/0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
-    "type": "KRC20",
+    "website": "https://tether.to/en/",
+    "description": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation.",
+    "explorer": "https://explorer.kcc.io/token/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
     "symbol": "USDT",
+    "type": "KRC20",
     "decimals": 18,
     "status": "active",
-    "id": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48"
+    "id": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tether.to/en/transparency/"
+        }
+    ]
 }
