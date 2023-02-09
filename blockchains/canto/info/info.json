@@ -1,0 +1,23 @@
+{
+    "name": "Canto",
+    "website": "https://canto.io/",
+    "description": "Canto Canto is a permissionless general-purpose blockchain running the Ethereum Virtual Machine (EVM). It was built to deliver on the promise of DeFi – that through a post-traditional financial movement, new systems will be made accessible, transparent, decentralized, and free.",
+    "explorer": "https://evm.explorer.canto.io/",
+    "symbol": "CANTO",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/canto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/+AhOzqMpej0ZiN2Ux"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cantopublic"
+        }
+    ]
+}
