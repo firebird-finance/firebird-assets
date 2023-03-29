@@ -1,0 +1,30 @@
+{
+    "name": "zkSync Era",
+    "website": "https://zksync.io/",
+    "description": "zkSync is a ZK rollup, a trustless protocol that uses cryptographic validity proofs to provide scalable and low-cost transactions on Ethereum.",
+    "explorer": "https://explorer.zksync.io/",
+    "type": "coin",
+    "status": "active",
+    "links": [
+        {
+            "name": "medium",
+            "url": "https://blog.matter-labs.io/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/matter-labs"
+        },
+        {
+            "name": "discord",
+            "url": "https://join.zksync.dev/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zksync"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zksync"
+        }
+    ]
+}
