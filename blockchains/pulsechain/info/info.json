@@ -1,0 +1,16 @@
+{
+    "name": "PulseChain",
+    "website": "https://pulsechain.com/",
+    "description": "Ethereum fork, with delegated proof of stake validators, shorter 3second blocks, no mining, no inflation, fee-burning block chain.",
+    "explorer": "https://scan.pulsechain.com/",
+    "symbol": "PLS",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PulseChainCom"
+        }
+    ]
+}
