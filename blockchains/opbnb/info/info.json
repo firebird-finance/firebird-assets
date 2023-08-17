@@ -1,0 +1,10 @@
+{
+    "name": "opBNB",
+    "website": "https://opbnb.bnbchain.org/en",
+    "description": "Unleash BNB Chain's Full Potential. An Optimized Layer-2 Solution That Delivers Lower Fees And Higher Throughput To Unlock The Full Potential Of The BNB Chain.",
+    "explorer": "https://mainnet.opbnbscan.com/",
+    "symbol": "BNB",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active"
+}
