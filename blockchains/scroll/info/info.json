@@ -1,0 +1,25 @@
+{
+    "name": "Scroll",
+    "website": "https://scroll.io/",
+    "description": "Scroll seamlessly extends Ethereum’s capabilities through zero knowledge tech and EVM compatibility. The L2 network built by Ethereum devs for Ethereum devs.",
+    "explorer": "https://scrollscan.com/",
+    "symbol": "ETH",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/scroll-tech"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/scroll"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Scroll_ZKP"
+        }
+    ]
+}
