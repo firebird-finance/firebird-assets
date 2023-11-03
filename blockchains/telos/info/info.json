@@ -1,0 +1,21 @@
+{
+    "name": "Telos",
+    "website": "https://www.telos.net/",
+    "description": "Seamlessly transfer assets and data to and from any other blockchain supported by LayerZero.",
+    "explorer": "https://www.teloscan.io/",
+    "symbol": "TLOS",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/telosnetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/HelloTelos"
+        }
+    ]
+}
